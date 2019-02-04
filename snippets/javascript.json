@@ -1,0 +1,14 @@
+{
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	},
+	"sticky sidebar collapse to icons with responsive": {
+		"prefix": "sidebar-icons",
+		"body": "$(\"#menu-toggle\").click(function(e) {\n  e.preventDefault();\n  $(\"#wrapper\").toggleClass(\"toggled\");\n});"
+	}
+}
