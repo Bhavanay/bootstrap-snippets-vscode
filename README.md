@@ -8,6 +8,12 @@ All the snippets available below required bootstrap4 css file.
 
 To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets will show up.
 
+## Installation instructions
+
+* Open visual studio code, cick on **Extensions** which is present in left side bar or simply press `ctrl+shift+x`.
+* There you can find all extensions which were already installed. Now search in the search bar with `bootstrap-snippets-vscode` and click install.
+* Now restart the vs code. By pressing `ctrl+space` you can find all the available snippets.
+
 ## Available Snippets
 
 |Keyword|Description|Css|Javascript|Font-awesome|
