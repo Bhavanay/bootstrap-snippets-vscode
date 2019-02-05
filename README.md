@@ -86,7 +86,8 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     * Type `flip-card` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'Flips card on hover'.
     * This snippet also requires custom style in css. So, open css file and type 'flip-card	', this will show up a user snippet and then add that snippet.
 
-    <img align="left" src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip1.png"/><img align="left" src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip2.png"/>
+    <img align="left" src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip1.png"/><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip2.png"/>
+
 
 11. **sidebar-icons**
 
