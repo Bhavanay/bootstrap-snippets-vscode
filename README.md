@@ -16,7 +16,7 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
 ## Available Snippets
 
-1. **Media**
+1. **media**
 
     * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'media object'.
 
@@ -44,7 +44,67 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
     <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/header.png"/></td></tr></table>
 
+5. **tabs**
 
+    * Type `tabs` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'Dynamic tab pills'.
+    * This snippet requires bootstrap js.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/tabs.png"/></td></tr></table>
+
+6. **table-r**
+
+    * Type `table-r` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic table with responsive	'.
+    * This snippet requires bootstrap js.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/table.png"/></td></tr></table>
+
+7. **carousel-slider**
+
+    * Type `carousel-slider` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'carousel with indicators,controls and captions'.
+    * This snippet requires bootstrap js.
+    * This snippet also requires custom style in css. So, open css file and type 'carousel-slider', this will show up a user snippet and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/slider.png"/></td></tr></table>
+
+8. **timeline-r**
+
+    * Type `timeline-r` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'timeline with responsive'.
+    * This snippet requires font-awesome.
+    * This snippet also requires custom style in css. So, open css file and type 'timeline-r', this will show up a user snippet and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/timline.png"/></td></tr></table>
+
+9. **footer**
+
+    * Type `footer` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic footer with four columns'.
+    * This snippet also requires custom style in css. So, open css file and type 'footer', this will show up a user snippet and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/footer.png"/></td></tr></table>
+
+10. **flip-card**
+
+    * Type `flip-card` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'Flips card on hover'.
+    * This snippet also requires custom style in css. So, open css file and type 'flip-card	', this will show up a user snippet and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip1.png"/></td></tr></table>
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip2.png"/></td></tr></table>
+
+11. **sidebar-icons**
+
+    * Type `sidebar-icons` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'sticky sidebar collapse to icons with responsive'.
+    * This snippet requires font-awesome.
+    * This snippet also requires custom style in css and custom script in javascript. So, open css file and js file then type 'sidebar-icons', this will show up a user snippet in both files and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/sidebar1.png"/></td></tr></table>
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/sidebar2.png"/></td></tr></table>
+
+11. **login-signup**
+
+    * Type `login-signup` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic login/signup form using modal'.
+    * This snippet requires bootstrap js.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/login1.png"/></td></tr></table>
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/signup.png"/></td></tr></table>
 
 
 
