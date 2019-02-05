@@ -1,39 +1,39 @@
 {
-    "name": "bootstrap-snippets-vscode",
-    "displayName": "bootstrap-snippets-vscode",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "bhavanay",
-    "license":"See License section in README.md",
-    "homepage":"https://github.com/Bhavanay/bootstrap-snippets-vscode",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Bhavanay/bootstrap-snippets-vscode"
-    },
-    "engines": {
-        "vscode": "^1.30.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-          {
-            "language": "html",
-            "path": "./snippets/html.json"
-          },
-          {
-            "language": "javascript",
-            "path": "./snippets/javascript.json"
-          },
-          {
-            "language": "ruby",
-            "path": "./snippets/ruby.json"
-          },
-          {
-            "language": "css",
-            "path": "./snippets/css.json"
-          }
-        ]
-    }
+  "name": "bootstrap-snippets-vscode",
+  "displayName": "bootstrap-snippets-vscode",
+  "description": "",
+  "version": "0.1.0",
+  "publisher": "bhavanay",
+  "license": "See License section in README.md",
+  "homepage": "https://github.com/Bhavanay/bootstrap-snippets-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bhavanay/bootstrap-snippets-vscode"
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/html.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "ruby",
+        "path": "./snippets/ruby.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/css.json"
+      }
+    ]
+  }
 }
