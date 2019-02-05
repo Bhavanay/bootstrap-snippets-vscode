@@ -18,11 +18,40 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
 1. **Media**
 
-    * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description.
+    * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'media object'.
 
-    <table><tr><td>
-    <img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png" />
-    </td></tr></table>
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png"/></td></tr></table>
+
+2. **card**
+
+    * Type `card` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'card with image, text, rating and button'.
+    * This snippet requires font-awesome.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/card.png"/></td></tr></table>
+
+3. **accordion**
+
+    * Type `accordion` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'accordion with plus and minus icons that toggles'.
+    * This snippet requires font-awesome and bootstrap js.
+    * This snippet also requires custom style in css. So, open css file and type 'accordion', this will show up a user snippet and then add that snippet.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/accordion.png"/></td></tr></table>
+
+4. **header-t-f**
+
+    * Type `header-t-f` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic header with fixed on top'.
+    * This snippet requires bootstrap js.
+
+    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/header.png"/></td></tr></table>
+
+
+
+
+
+
+
+
+
 
 
 ## Summary
