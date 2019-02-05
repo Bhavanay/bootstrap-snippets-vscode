@@ -88,7 +88,6 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
     <img align="left" src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip1.png"/><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip2.png"/>
 
-
 11. **sidebar-icons**
 
     * Type `sidebar-icons` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'sticky sidebar collapse to icons with responsive'.
