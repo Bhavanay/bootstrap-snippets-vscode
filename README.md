@@ -20,14 +20,14 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
     * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'media object'.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/media.png"/></td></tr></table>
 
 2. **card**
 
     * Type `card` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'card with image, text, rating and button'.
     * This snippet requires font-awesome.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/card.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/card.png"/></td></tr></table>
 
 3. **accordion**
 
@@ -35,28 +35,28 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     * This snippet requires font-awesome and bootstrap 4.2.1 js.
     * This snippet also requires custom style in css. So, open css file and type 'accordion', this will show up a user snippet and then add that snippet.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/accordion.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/accordion.png"/></td></tr></table>
 
 4. **header-t-f**
 
     * Type `header-t-f` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic header with fixed on top'.
     * This snippet requires bootstrap 4.2.1 js.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/header.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/header.png"/></td></tr></table>
 
 5. **tabs**
 
     * Type `tabs` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'Dynamic tab pills'.
     * This snippet requires bootstrap 4.2.1 js.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/tabs.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/tabs.png"/></td></tr></table>
 
 6. **table-r**
 
     * Type `table-r` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic table with responsive	'.
     * This snippet requires bootstrap 4.2.1 js.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/table.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/table.png"/></td></tr></table>
 
 7. **carousel-slider**
 
@@ -64,7 +64,7 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     * This snippet requires bootstrap 4.2.1 js.
     * This snippet also requires custom style in css. So, open css file and type 'carousel-slider', this will show up a user snippet and then add that snippet.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/slider.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/slider.png"/></td></tr></table>
 
 8. **timeline-r**
 
@@ -72,21 +72,21 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     * This snippet requires font-awesome.
     * This snippet also requires custom style in css. So, open css file and type 'timeline-r', this will show up a user snippet and then add that snippet.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/timeline.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/timeline.png"/></td></tr></table>
 
 9. **footer**
 
     * Type `footer` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic footer with four columns'.
     * This snippet also requires custom style in css. So, open css file and type 'footer', this will show up a user snippet and then add that snippet.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/footer.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/footer.png"/></td></tr></table>
 
 10. **flip-card**
 
     * Type `flip-card` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'Flips card on hover'.
     * This snippet also requires custom style in css. So, open css file and type 'flip-card	', this will show up a user snippet and then add that snippet.
 
-    <img align="left" src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip1.png"/><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/flip2.png"/>
+    <img align="left" src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/flip1.png"/><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/flip2.png"/>
 
 11. **sidebar-icons**
 
@@ -94,16 +94,16 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     * This snippet requires font-awesome.
     * This snippet also requires custom style in css and custom script in javascript. So, open css file and js file then type 'sidebar-icons', this will show up a user snippet in both files and then add that snippet.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/sidebar1.png"/></td></tr></table>
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/sidebar2.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/sidebar1.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/sidebar2.png"/></td></tr></table>
 
 11. **login-signup**
 
     * Type `login-signup` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic login/signup form using modal'.
     * This snippet requires bootstrap 4.2.1 js.
 
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/login1.png"/></td></tr></table>
-    <table><tr><td><img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/signup.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/login1.png"/></td></tr></table>
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/signup.png"/></td></tr></table>
 
 
 ## Summary
