@@ -20,6 +20,8 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
     * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description.
 
+    <img src="https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png" title="Github Logo">
+
     <kbd>![media object image](https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png)</kbd>
 
 
