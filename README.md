@@ -16,6 +16,15 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
 ## Available Snippets
 
+1. **Media**
+
+    * Type `media` in your document, then editor will show up a snippet categorized with user snippets along with the description.
+
+    ![media object image](https://github.com/Bhavanay/bootstrap-snippets-vscode/blob/master/snippets-images/media.png)
+
+
+## Summary
+
 |Keyword|Description|Css|Javascript|Font-awesome|
 |--- |--- |--- |--- |--- |
 |**media**|media object|-|-|-|
