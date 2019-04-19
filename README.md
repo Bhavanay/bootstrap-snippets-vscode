@@ -97,7 +97,7 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/sidebar1.png"/></td></tr></table>
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/sidebar2.png"/></td></tr></table>
 
-11. **login-signup**
+12. **login-signup**
 
     * Type `login-signup` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic login/signup form using modal'.
     * This snippet requires bootstrap 4.2.1 js.
@@ -105,14 +105,14 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/login1.png"/></td></tr></table>
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/signup.png"/></td></tr></table>
 
-12. **breadcrumb**
+13. **breadcrumb**
 
     * Type `breadcrumb` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic breadcrumb'.
     * This snippet requires font-awesome.
 
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/breadcrumb.png"/></td></tr></table>
 
-1.. **icon-blocks**
+14. **icon-blocks**
 
     * Type `icon-blocks` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'icon with blocks'.
     * This snippet requires font-awesome.
