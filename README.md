@@ -105,6 +105,20 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/login1.png"/></td></tr></table>
     <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/signup.png"/></td></tr></table>
 
+12. **breadcrumb**
+
+    * Type `breadcrumb` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'basic breadcrumb'.
+    * This snippet requires font-awesome.
+
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/breadcrumb.png"/></td></tr></table>
+
+1.. **icon-blocks**
+
+    * Type `icon-blocks` in your document, then editor will show up a snippet categorized with user snippets along with the description - 'icon with blocks'.
+    * This snippet requires font-awesome.
+
+    <table><tr><td><img src="https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/iconblocks.png"/></td></tr></table>
+
 
 ## Summary
 
@@ -122,6 +136,8 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 |**flip-card**|Flips card on hover|required custom css in css file|-|-|
 |**sidebar-icons**|sticky sidebar collapse to icons with responsive|required custom css in css file|required custom javascript in javascript file|yes|
 |**login-signup**|basic login/signup form using modal|-|required bootstrap js|-|
+|**breadcrumb**|basic breadcrumb|-|-|yes|
+|**icon-blocks**|icon with blocks|required custom css in css file|-|yes|
 
 
 **Note:** 
