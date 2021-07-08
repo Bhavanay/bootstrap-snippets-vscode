@@ -147,4 +147,6 @@ To use the bootstrap snippets, press `Ctrl+Space`. A list of bootstrap snippets 
 
 If you can contribute or you want to, feel free to do it at [Buy me a coffee!](https://www.buymeacoffee.com/bhavanay), I will be really thankfull for anything even if it is a coffee or just a kind comment towards my work, because that helps me a lot. Thank you!
 
+[![](https://raw.githubusercontent.com/Bhavanay/bootstrap-snippets-vscode/master/snippets-images/buymeacoffee.png)](https://www.buymeacoffee.com/bhavanay)
+
 **Enjoy!**
